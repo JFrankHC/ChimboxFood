@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_home"
+            android:icon="@drawable/ic_home"
+            android:title="Noticias" />
+        <item
+            android:id="@+id/nav_restaurant"
+            android:icon="@drawable/ic_restaurant"
+            android:title="Restaurantes" />
+        <item
+            android:id="@+id/nav_fondas"
+            android:icon="@drawable/ic_dining"
+            android:title="Otros" />
+        <item
+            android:id="@+id/nav_recomendados"
+            android:icon="@drawable/ic_recomendado"
+            android:title="¡Los más recomendados!" />
+    </group>
+
+    <item android:title="Sobre nosotros">
+        <menu>
+            <item
+                android:id="@+id/nav_quienes"
+                android:icon="@drawable/ic_quienes"
+                android:title="Quiénes somos" />
+            <item
+                android:id="@+id/nav_myv"
+                android:icon="@drawable/ic_myv"
+                android:title="Misión y Visión" />
+        </menu>
+    </item>
+
+</menu>

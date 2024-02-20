@@ -1,0 +1,147 @@
+{
+  "project_info": {
+    "project_number": "804697167177",
+    "firebase_url": "https://chimboxfood96.firebaseio.com",
+    "project_id": "chimboxfood96",
+    "storage_bucket": "chimboxfood96.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:804697167177:android:794ff7bb7222a4a3",
+        "android_client_info": {
+          "package_name": "com.ChimboxFood.fraank.chimbox"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "804697167177-gdet37n27o8u109mlf1u02q3ccacm30b.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.ChimboxFood.fraank.chimbox",
+            "certificate_hash": "c606e234cada6769982ab4e480859a9bf109e4da"
+          }
+        },
+        {
+          "client_id": "804697167177-8e6iqccgv7gr6e2gl390jus5fsk19ppq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.ChimboxFood.fraank.chimbox",
+            "certificate_hash": "2a8ee8327442febc253f8611999c0ef2445a709c"
+          }
+        },
+        {
+          "client_id": "804697167177-3v16mvmn4p161f7nhbugqbqhcqb606ot.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.ChimboxFood.fraank.chimbox",
+            "certificate_hash": "c0f080fb1d87861b16dee5cd3499b82aed72eb3d"
+          }
+        },
+        {
+          "client_id": "804697167177-5al195d87cmshoif9uduueusu2gdh7l0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.ChimboxFood.fraank.chimbox",
+            "certificate_hash": "1591c4d82aac642a083e6f101159bb1f1494aabf"
+          }
+        },
+        {
+          "client_id": "804697167177-0uj399hahddr9qha5t50fa72qvq0eqoi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDLZxsVMB5eMcZZzCdSYE1Y4IloFTXvU1I"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "804697167177-0uj399hahddr9qha5t50fa72qvq0eqoi.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:804697167177:android:e32b15477a7ad21e",
+        "android_client_info": {
+          "package_name": "com.chiimboxFood.fraank.chimbox"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "804697167177-f4a8he4brbj5017ka2nu6ajoub7au4qs.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.chiimboxFood.fraank.chimbox",
+            "certificate_hash": "c0f080fb1d87861b16dee5cd3499b82aed72eb3d"
+          }
+        },
+        {
+          "client_id": "804697167177-7ch3ckavc585d2pesr5o54lomfvig6po.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.chiimboxFood.fraank.chimbox",
+            "certificate_hash": "c606e234cada6769982ab4e480859a9bf109e4da"
+          }
+        },
+        {
+          "client_id": "804697167177-kg8os1002rp9120gc4s7or4rb15kf5ed.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.chiimboxFood.fraank.chimbox",
+            "certificate_hash": "2a8ee8327442febc253f8611999c0ef2445a709c"
+          }
+        },
+        {
+          "client_id": "804697167177-spn82m26f3djcqphd8c53hhctbfh7qfr.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.chiimboxFood.fraank.chimbox",
+            "certificate_hash": "1591c4d82aac642a083e6f101159bb1f1494aabf"
+          }
+        },
+        {
+          "client_id": "804697167177-0uj399hahddr9qha5t50fa72qvq0eqoi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDLZxsVMB5eMcZZzCdSYE1Y4IloFTXvU1I"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "804697167177-0uj399hahddr9qha5t50fa72qvq0eqoi.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
